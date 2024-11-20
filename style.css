@@ -1,0 +1,8 @@
+body,
+HTML {
+  margin: 0;
+  background-color: white !important;
+}
+canvas {
+  background-color: white !important;
+}
